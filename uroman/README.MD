@@ -1,0 +1,1 @@
+By running mergeshuffle.py, this script merges and shuffles the punctuation reserved and punctuation cleaned text files of each language to a single merged text file named `comturk_mergeshuffledata.txt`.
