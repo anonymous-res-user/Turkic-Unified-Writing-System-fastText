@@ -2,6 +2,7 @@
 
 **‼️The fastText models and the fastText training corpora are too large. We have some trouble uplaoding them. However, you can still reproduce our work through the scripts provided here. We are trying our best to solve this problem.**
 
+To download the raw Wikipedia file of each language, please run `turkic_wiki.sh`. The downloaded files will be stored in the folder `rawwikitext`.
 
 By running each {iso639-3}\_cta.py, 
 you can get text files uroman\_{iso639-1}.txt and comturk\_{iso639-1}.txt
