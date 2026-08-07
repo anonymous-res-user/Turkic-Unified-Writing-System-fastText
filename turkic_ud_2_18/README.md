@@ -18,16 +18,27 @@ Experiment design
 
 Expected directory layout
 -------------------------
+
 turkic_ud_2_18/
+
 ├── all_canine_c_pos_train.py
+
 ├── canine-c/
+
 │   ├── config.json
+
 │   ├── model.safetensors
+
 │   └── ...
+
 ├── az_tuecl/
+
 │   ├── dataset_dict.json
+
 │   ├── test/
+
 │   └── ...
+
 └── ...
 
 Notes
