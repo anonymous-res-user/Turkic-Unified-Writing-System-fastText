@@ -3,3 +3,5 @@ By running mergeshuffle.py, this script merges and shuffles the punctuation rese
 By running fasttext_pretrain.py, this script trains a fastText using the data `uroman_mergeshuffledata.txt`. The resulting fastText model is the uroman one used in our experiment. The hyperparameters of training are in this script.
 
 For training the uroman WikiANN NER model, please run `GITHUBall_wikiann_mean_train.py`. Hyperparameters are all in this script.
+
+For training the uroman UD POS model, please run `GITHUBall_pos_train.py`. Hyperparameters are all in this script.
