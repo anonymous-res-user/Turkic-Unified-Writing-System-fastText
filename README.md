@@ -11,3 +11,5 @@ For the following steps, please refer to the READMEs in the files `comturk` and 
 **‼️⚠️All WikiANN NER and UD POS training freezes the fastText embeddings.⚠️‼️** For training details and hyperparameters, please refer to the READEMEs and training scripts in the folders `comturk` and `uroman`.
 
 **The fastText models and the fastText training corpora are too large. We have some trouble uplaoding them. However, you can still reproduce our work through the scripts provided here.**
+
+For the CANINE training script, please refer to the script in the folder `turkic_ud_2_18`. The data and path requirement for running this script are also in this script.
