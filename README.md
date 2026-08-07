@@ -1,4 +1,4 @@
-**Important Supplementary Info: All WikiANN NER and UD POS training freezes the fastText embeddings.⚠️‼️**
+**Important Supplementary Info: All WikiANN NER and UD POS training freezes the fastText embeddings.**
 
 By running each {iso639-3}\_cta.py, 
 you can get text files uroman\_{iso639-1}.txt and comturk\_{iso639-1}.txt
