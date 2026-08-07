@@ -9,3 +9,5 @@ you can get the line concatenation without punctuation cleaning version and the 
 For the following steps, please refer to the READMEs in the files `comturk` and `uroman`.
 
 **‼️⚠️All WikiANN NER and UD POS training freezes the fastText embeddings.⚠️‼️** For training details and hyperparameters, please refer to the READEMEs and training scripts in the folders `comturk` and `uroman`.
+
+**The fastText models and the fastText training corpora are too large. We have some trouble uplaoding them. However, you can still reproduce our work through the scripts provided here.**
