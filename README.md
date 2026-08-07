@@ -1,4 +1,4 @@
-**‼️Important Supplementary Info: All WikiANN NER and UD POS training freezes the fastText embeddings.**
+**‼️Important Supplementary Info: All WikiANN NER and UD POS trainings freeze the fastText embeddings.**
 
 **‼️The fastText models and the fastText training corpora are too large. We have some trouble uploading them. However, you can still reproduce our work through the scripts provided here. We are trying our best to solve this problem.**
 
@@ -14,6 +14,6 @@ you can get the line concatenation without punctuation cleaning version and the 
 
 For the following steps, please refer to the READMEs in the files `comturk` and `uroman`.
 
-**‼️⚠️All WikiANN NER and UD POS training freezes the fastText embeddings.⚠️‼️** For training details and hyperparameters, please refer to the READEMEs and training scripts in the folders `comturk` and `uroman`.
+**‼️⚠️All WikiANN NER and UD POS trainings freeze the fastText embeddings.⚠️‼️** For training details and hyperparameters, please refer to the READEMEs and training scripts in the folders `comturk` and `uroman`.
 
 For the CANINE training script, please refer to the script in the folder `turkic_ud_2_18`. The data and path requirement for running this script are also in this script.
