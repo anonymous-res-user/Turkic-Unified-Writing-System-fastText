@@ -1,6 +1,6 @@
 **‼️Important Supplementary Info: All WikiANN NER and UD POS training freezes the fastText embeddings.**
 
-**‼️The fastText models and the fastText training corpora are too large. We have some trouble uplaoding them. However, you can still reproduce our work through the scripts provided here. We are trying our best to solve this problem.**
+**‼️The fastText models and the fastText training corpora are too large. We have some trouble uploading them. However, you can still reproduce our work through the scripts provided here. We are trying our best to solve this problem.**
 
 To download the raw Wikipedia file of each language, please run `turkic_wiki.sh`. The downloaded files will be stored in the folder `rawwikitext`.
 
